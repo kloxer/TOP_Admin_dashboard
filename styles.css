@@ -87,12 +87,17 @@ padding-top: 13px;
     display:flex;
     flex-direction: row;
     justify-content: space-between;
+}
+.searchAndIcon{
+    display: flex;
+    align-items: center;
     gap:10px;
 }
 .searchIcon{
     width:20px;
 }
 input[type='search']{
+
     width:200px;
     border-style: none;
     border-radius: 10px;
