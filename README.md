@@ -3,12 +3,10 @@
 
 This project is part of [The Odin Project's](https://www.theodinproject.com/) Intermediate HTML and CSS course. The goal is to build a responsive admin dashboard using HTML and CSS, with a focus on CSS Grid for layout.
 
-![Project Preview](path_to_screenshot.png)
-
 
 ## Live Demo
 
-Check out the live version of the project [here]([https://kloxer.github.io/TOP_Admin_dashboard/]).
+Check out the live version of the project [here](https://kloxer.github.io/TOP_Admin_dashboard/).
 
 ## Project Overview
 
